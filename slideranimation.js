@@ -1,10 +1,8 @@
 /*
  * Obfuscated & Protected by Igor Ferraz dos Santos and <DEV³>
- * CPF: 119.796.287-50
  * Date: 2025-01-11
  * © All Rights Reserved - Farma<Dev³> Project
  * Unauthorized copying, modification, or distribution is strictly prohibited.
- * For licensing: igor.ferraz.trab10@gmail.com  and dev3company@gmail.com
  */
 var _0x432e=document.documentElement.clientWidth;
 let _0x9c8c=window.location.href.length;
