@@ -1,0 +1,360 @@
+═══════════════════════════════════════════════════════════════════════
+                    CONTRATO DE LICENÇA DE USUÁRIO FINAL
+                         END USER LICENSE AGREEMENT (EULA)
+═══════════════════════════════════════════════════════════════════════
+
+Software: FarmaDev³ Website & Applications
+Desenvolvedor: Igor Ferraz dos Santos
+Empresa: <DEV³>
+Data de Vigência: 11 de Janeiro de 2025
+
+═══════════════════════════════════════════════════════════════════════
+
+IMPORTANTE: LEIA ATENTAMENTE ESTE CONTRATO ANTES DE UTILIZAR ESTE SOFTWARE.
+
+Ao utilizar, instalar, copiar ou acessar este software ("Software"), você 
+("Usuário" ou "Licenciado") concorda em ficar vinculado aos termos e 
+condições deste Contrato de Licença de Usuário Final ("EULA").
+
+Se você NÃO concorda com estes termos, NÃO utilize, instale ou copie este 
+Software.
+
+═══════════════════════════════════════════════════════════════════════
+                            1. CONCESSÃO DE LICENÇA
+═══════════════════════════════════════════════════════════════════════
+
+1.1. LICENCIANTE
+Este Software é licenciado, não vendido, por:
+
+    Nome Completo: Igor Ferraz dos Santos
+    Empresa: <DEV³>
+    Email: igor.ferraz.trab10@gmail.com|dev3company@gmail.com 
+
+1.2. DIREITOS CONCEDIDOS
+Sujeito aos termos deste EULA, o Licenciante concede ao Usuário uma 
+licença não exclusiva, não transferível e revogável para:
+
+    a) Usar o Software para fins autorizados
+    b) Instalar o Software em servidor(es) especificado(s)
+    c) Acessar e utilizar as funcionalidades do Software
+
+1.3. LIMITAÇÕES
+Esta licença NÃO permite:
+
+    ✗ Distribuir, sublicenciar ou vender o Software
+    ✗ Modificar, descompilar ou fazer engenharia reversa
+    ✗ Remover avisos de copyright ou propriedade
+    ✗ Criar trabalhos derivados sem autorização expressa
+    ✗ Usar o Software para fins ilegais ou não autorizados
+
+═══════════════════════════════════════════════════════════════════════
+                        2. PROPRIEDADE INTELECTUAL
+═══════════════════════════════════════════════════════════════════════
+
+2.1. DIREITOS AUTORAIS
+O Software e todos os direitos de propriedade intelectual relacionados 
+são e permanecerão propriedade exclusiva de:
+
+    © 2025 Igor Ferraz dos Santos
+    © 2025 <DEV³>
+    
+
+2.2. PROTEÇÃO
+Este Software é protegido pelas leis de direitos autorais do Brasil e 
+tratados internacionais de propriedade intelectual.
+
+2.3. MARCAS REGISTRADAS
+Todos os nomes comerciais, marcas registradas, marcas de serviço e 
+logotipos associados ao Software são propriedade do Licenciante.
+
+═══════════════════════════════════════════════════════════════════════
+                           3. USO PERMITIDO
+═══════════════════════════════════════════════════════════════════════
+
+3.1. ESCOPO DE USO
+O Software é licenciado especificamente para:
+
+    ✓ FarmaDev³ 
+    ✓ Sites e aplicações desenvolvidas pela <DEV³>
+    ✓ Ambiente de produção autorizado
+    ✓ Fins comerciais conforme acordado
+
+3.2. RESTRIÇÕES GEOGRÁFICAS
+Esta licença é válida para uso em território brasileiro, salvo acordo 
+contrário por escrito.
+
+3.3. NÚMERO DE INSTALAÇÕES
+O Software pode ser instalado em:
+    • Servidores de produção autorizados
+    • Ambientes de desenvolvimento/teste
+    • Backup e recuperação de desastres
+
+═══════════════════════════════════════════════════════════════════════
+                          4. PROIBIÇÕES
+═══════════════════════════════════════════════════════════════════════
+
+O Usuário NÃO PODE, sob nenhuma circunstância:
+
+    ✗ DESCOMPILAÇÃO: Fazer engenharia reversa, descompilar ou 
+      desmontar o Software
+
+    ✗ MODIFICAÇÃO: Alterar, modificar ou criar trabalhos derivados 
+      sem autorização expressa por escrito
+
+    ✗ DISTRIBUIÇÃO: Distribuir, alugar, emprestar ou sublicenciar 
+      o Software a terceiros
+
+    ✗ REMOÇÃO DE MARCAS: Remover, ocultar ou alterar avisos de 
+      copyright, marcas registradas ou propriedade
+
+    ✗ CÓPIA NÃO AUTORIZADA: Copiar o Software exceto para backup
+
+    ✗ TRANSFERÊNCIA: Transferir esta licença sem consentimento 
+      prévio por escrito do Licenciante
+
+    ✗ USO COMPETITIVO: Usar o Software para desenvolver produtos 
+      ou serviços concorrentes
+
+    ✗ ACESSO NÃO AUTORIZADO: Contornar medidas de segurança ou 
+      proteção técnica
+
+═══════════════════════════════════════════════════════════════════════
+                     5. ATUALIZAÇÕES E MANUTENÇÃO
+═══════════════════════════════════════════════════════════════════════
+
+5.1. ATUALIZAÇÕES
+O Licenciante pode, a seu exclusivo critério, fornecer atualizações, 
+correções ou melhorias do Software.
+
+5.2. SUPORTE TÉCNICO
+Suporte técnico está disponível mediante acordo separado e pode incluir:
+    • Correção de bugs
+    • Assistência técnica
+    • Implementação de novas funcionalidades
+
+5.3. MANUTENÇÃO
+Serviços de manutenção são fornecidos conforme contrato de suporte 
+técnico separado.
+
+═══════════════════════════════════════════════════════════════════════
+                         6. GARANTIA LIMITADA
+═══════════════════════════════════════════════════════════════════════
+
+6.1. GARANTIA
+O Licenciante garante que o Software:
+    a) Funcionará substancialmente conforme documentado
+    b) Foi desenvolvido com habilidades profissionais
+    c) Não contém malware conhecido
+
+6.2. PERÍODO DE GARANTIA
+A garantia é válida por 90 (noventa) dias a partir da data de entrega.
+
+6.3. REMÉDIOS
+Em caso de violação de garantia, o Licenciante, a seu critério, irá:
+    a) Corrigir o defeito; ou
+    b) Substituir o Software; ou
+    c) Reembolsar o valor pago
+
+6.4. EXCLUSÕES
+Esta garantia NÃO cobre:
+    • Uso indevido ou modificação não autorizada
+    • Problemas causados por hardware ou software de terceiros
+    • Falha em seguir instruções de instalação/uso
+
+═══════════════════════════════════════════════════════════════════════
+                      7. ISENÇÃO DE RESPONSABILIDADE
+═══════════════════════════════════════════════════════════════════════
+
+7.1. "COMO ESTÁ"
+EXCETO CONFORME EXPRESSAMENTE PREVISTO NA SEÇÃO 6, O SOFTWARE É 
+FORNECIDO "COMO ESTÁ" E "CONFORME DISPONÍVEL", SEM GARANTIAS DE 
+QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS.
+
+7.2. EXCLUSÃO DE GARANTIAS IMPLÍCITAS
+O LICENCIANTE ISENTA-SE DE TODAS AS GARANTIAS IMPLÍCITAS, INCLUINDO, 
+MAS NÃO SE LIMITANDO A:
+    • Comercialização
+    • Adequação a um propósito específico
+    • Não violação de direitos de terceiros
+    • Desempenho ou resultados específicos
+
+7.3. NENHUMA GARANTIA DE FUNCIONAMENTO ININTERRUPTO
+O Licenciante não garante que o Software funcionará sem erros ou 
+interrupções.
+
+═══════════════════════════════════════════════════════════════════════
+                      8. LIMITAÇÃO DE RESPONSABILIDADE
+═══════════════════════════════════════════════════════════════════════
+
+8.1. DANOS EXCLUÍDOS
+EM NENHUMA CIRCUNSTÂNCIA O LICENCIANTE SERÁ RESPONSÁVEL POR:
+
+    • DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS OU CONSEQUENCIAIS
+    • PERDA DE LUCROS, RECEITAS OU DADOS
+    • PERDA DE USO OU CUSTO DE SUBSTITUIÇÃO
+    • INTERRUPÇÃO DE NEGÓCIOS
+    • DANOS EXEMPLARES OU PUNITIVOS
+
+Mesmo que o Licenciante tenha sido avisado da possibilidade de tais danos.
+
+8.2. VALOR MÁXIMO
+A RESPONSABILIDADE TOTAL DO LICENCIANTE, SE HOUVER, NÃO EXCEDERÁ O 
+VALOR PAGO PELO SOFTWARE NOS ÚLTIMOS 12 (DOZE) MESES.
+
+8.3. JURISDIÇÕES QUE NÃO PERMITEM LIMITAÇÕES
+Algumas jurisdições não permitem limitação de responsabilidade por 
+danos consequenciais. Nestes casos, a responsabilidade do Licenciante 
+será limitada ao máximo permitido por lei.
+
+═══════════════════════════════════════════════════════════════════════
+                        9. CONFIDENCIALIDADE
+═══════════════════════════════════════════════════════════════════════
+
+9.1. INFORMAÇÕES CONFIDENCIAIS
+O Usuário reconhece que o Software contém informações confidenciais e 
+proprietárias do Licenciante.
+
+9.2. OBRIGAÇÕES
+O Usuário concorda em:
+    a) Manter a confidencialidade do código-fonte
+    b) Não divulgar aspectos técnicos a terceiros
+    c) Proteger informações proprietárias
+    d) Limitar acesso apenas a funcionários autorizados
+
+9.3. DURAÇÃO
+Estas obrigações permanecem em vigor durante a vigência deste EULA e 
+por 5 (cinco) anos após seu término.
+
+═══════════════════════════════════════════════════════════════════════
+                      10. RESCISÃO DO CONTRATO
+═══════════════════════════════════════════════════════════════════════
+
+10.1. RESCISÃO POR VIOLAÇÃO
+Este EULA será automaticamente rescindido se o Usuário violar qualquer 
+termo deste Contrato.
+
+10.2. RESCISÃO PELO LICENCIANTE
+O Licenciante pode rescindir este EULA mediante aviso por escrito de 
+30 (trinta) dias em caso de:
+    • Não pagamento
+    • Violação material dos termos
+    • Encerramento de operações do Usuário
+
+10.3. OBRIGAÇÕES APÓS RESCISÃO
+Após rescisão, o Usuário deve:
+    a) Cessar imediatamente todo uso do Software
+    b) Desinstalar e destruir todas as cópias
+    c) Certificar por escrito a destruição
+    d) Devolver ou destruir toda documentação
+
+10.4. SOBREVIVÊNCIA
+As seções 2, 7, 8, 9, 11 e 12 sobreviverão à rescisão deste EULA.
+
+═══════════════════════════════════════════════════════════════════════
+                       11. LEI APLICÁVEL E FORO
+═══════════════════════════════════════════════════════════════════════
+
+11.1. LEI BRASILEIRA
+Este EULA será regido e interpretado de acordo com as leis do Brasil, 
+sem considerar conflitos de princípios legais.
+
+11.2. FORO
+Fica eleito o foro da Comarca do Rio de Janeiro, Estado do Rio de 
+Janeiro, Brasil, com exclusão de qualquer outro, por mais privilegiado 
+que seja, para dirimir quaisquer dúvidas ou controvérsias oriundas 
+deste EULA.
+
+11.3. IDIOMA
+Este EULA foi redigido em Português (Brasil). Em caso de tradução, a 
+versão em Português prevalecerá.
+
+═══════════════════════════════════════════════════════════════════════
+                        12. DISPOSIÇÕES GERAIS
+═══════════════════════════════════════════════════════════════════════
+
+12.1. CONTRATO COMPLETO
+Este EULA constitui o acordo completo entre as partes e substitui todos 
+os acordos anteriores, orais ou escritos.
+
+12.2. MODIFICAÇÕES
+Este EULA só pode ser modificado por escrito e assinado por ambas as 
+partes.
+
+12.3. RENÚNCIA
+A falha do Licenciante em exercer qualquer direito não constituirá 
+renúncia desse direito.
+
+12.4. DIVISIBILIDADE
+Se qualquer disposição deste EULA for considerada inválida, as demais 
+disposições permanecerão em pleno vigor.
+
+12.5. CESSÃO
+O Usuário não pode ceder este EULA sem consentimento prévio por escrito 
+do Licenciante.
+
+12.6. NOTIFICAÇÕES
+Todas as notificações devem ser enviadas por escrito para:
+
+    Igor Ferraz dos Santos
+    <DEV³>
+    Email: igor.ferraz.trab10@gmail.com|dev3company@gmail.com 
+
+
+12.7. AUDITORIA
+O Licenciante reserva-se o direito de auditar o uso do Software pelo 
+Usuário mediante aviso prévio de 15 (quinze) dias.
+
+12.8. FORÇA MAIOR
+Nenhuma das partes será responsável por atrasos ou falhas causados por 
+circunstâncias além de seu controle razoável.
+
+12.9. INTERPRETAÇÃO
+Títulos de seções são apenas para referência e não afetam a 
+interpretação deste EULA.
+
+12.10. CONTRAPARTE
+Este EULA pode ser executado em contrapartes, cada uma constituindo um 
+original.
+
+═══════════════════════════════════════════════════════════════════════
+                       13. ACEITAÇÃO DOS TERMOS
+═══════════════════════════════════════════════════════════════════════
+
+AO USAR, INSTALAR OU ACESSAR ESTE SOFTWARE, VOCÊ RECONHECE QUE LEU, 
+COMPREENDEU E CONCORDA EM FICAR VINCULADO A TODOS OS TERMOS E CONDIÇÕES 
+DESTE EULA.
+
+SE VOCÊ NÃO CONCORDA COM ESTES TERMOS, NÃO USE, INSTALE OU ACESSE ESTE 
+SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════════
+                          INFORMAÇÕES DE CONTATO
+═══════════════════════════════════════════════════════════════════════
+
+Para perguntas sobre este EULA ou licenciamento, entre em contato:
+
+    Desenvolvedor: Igor Ferraz dos Santos
+    Empresa: <DEV³>
+   
+    Email: igor.ferraz.trab10@gmail.com|dev3company@gmail.com 
+    
+    Projeto: FarmaDev³ Website
+    Data do EULA: 11 de Janeiro de 2025
+    Versão: 1.0
+
+═══════════════════════════════════════════════════════════════════════
+
+© 2025 Igor Ferraz dos Santos | <DEV³> - Todos os direitos reservados
+
+Todos os Direitos Reservados
+
+Este documento é confidencial e proprietário.
+Cópia ou distribuição não autorizada é estritamente proibida.
+
+=======================================
+Assinatura Digital: IF2025-119796287-50
+=======================================
+
+═══════════════════════════════════════════════════════════════════════
+                            FIM DO EULA
+═══════════════════════════════════════════════════════════════════════
